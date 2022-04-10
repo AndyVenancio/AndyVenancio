@@ -1,1 +1,1 @@
-I'm Andy Venancio and this is my personal repository. I know Python, Java, C/C++, and MATLAB.
+I'm Andy Venancio. I know Python, Java, C/C++, and MATLAB.
